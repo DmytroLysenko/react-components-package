@@ -1,5 +1,5 @@
 {
-  "name": "@MidoAhmed/rollup-react-library-starter",
+  "name": "@DmytroLysenko/rollup-react-library-starter",
   "version": "0.1.0",
   "description": "Template and quick-starter to create modern React libraries using Rollup.",
   "main": "dist/cjs/bundle.js",
@@ -9,7 +9,7 @@
     "dist"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/MidoAhmed"
+    "registry": "https://npm.pkg.github.com/DmytroLysenko"
   },
   "scripts": {
     "build": "rimraf dist && rollup -c",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MidoAhmed/rollup-react-library-starter.git"
+    "url": "git+https://github.com/DmytroLysenko/react-components-package"
   },
   "author": "MidoAhmed",
   "license": "MIT",
@@ -35,9 +35,9 @@
     "template"
   ],
   "bugs": {
-    "url": "https://github.com/MidoAhmed/rollup-react-library-starter/issues"
+    "url": "https://github.com/DmytroLysenko/react-components-package/issues"
   },
-  "homepage": "https://MidoAhmed.github.io/rollup-react-library-starter",
+  "homepage": "https://github.com/DmytroLysenko/react-components-package",
   "peerDependencies": {
     "antd": "^5.4.0",
     "react": ">=16.8.0",
